@@ -1,3 +1,8 @@
+Open 2 command windows
+navigate to both folders
+/crud/>>ng serve
+/djangocrud/>>python manage.py runserver
+
 # django-ng
 
 This is a project ofDjango RESTAPI & Angular
